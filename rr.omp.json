@@ -80,7 +80,7 @@
             "threshold": 0
           },
           "style": "diamond",
-          "template": " <#ffffff>ET:</> {{ .FormattedMs }}ms<#ffffff>\ufa1e</>",
+          "template": " <#ffffff>ET:</> {{ .FormattedMs }}s<#ffffff>\ufa1e</>",
           "type": "executiontime"
         },
         {
